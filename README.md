@@ -4,6 +4,6 @@ this course is ~~really hard~~
 
 name of file  | link
 ------------  | -------
-git VS github  | [Git VS Github](https://github.com/MohammadAlwawi/reading-notes/blob/main/gitVSgithub.md0)
+git VS github  | [Git VS Github](https://github.com/MohammadAlwawi/reading-notes/blob/main/gitVSgithub.md)
 growth mindset |  [Growthmindset](https://github.com/MohammadAlwawi/reading-notes/blob/main/grothmindset.md)
 Html  | [HTML](https://github.com/MohammadAlwawi/reading-notes/blob/main/html.md)
