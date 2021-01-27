@@ -7,3 +7,4 @@ _simply growth mindest is belief that a person abilities and intelegence can be 
 view challenge as opportunities.
 - Take ownership over your attitude
 For mor information read [**WORLD LIFE**](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+![image](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
