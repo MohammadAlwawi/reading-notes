@@ -8,4 +8,4 @@ git VS github  | [Git VS Github](https://mohammadalwawi.github.io/reading-notes/
 growth mindset |  [Growthmindset](https://mohammadalwawi.github.io/reading-notes/grothmindset)
 Html  | [HTML](https://mohammadalwawi.github.io/reading-notes/html)
 Remote | [REMOTE](https://mohammadalwawi.github.io/reading-notes/reading-note02b)
-Mastering Markdown on GitHub| [Mastering Markdown on GitHub](https://mohammadalwawi.github.io/reading-notes/Mastering%20Markdown%20on%20GitHub)
+Mastering Markdown on GitHub| [Mastering Markdown on GitHub](https://mohammadalwawi.github.io/reading-notes/MasteringMarkdownonGitHub)
