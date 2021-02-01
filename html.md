@@ -13,7 +13,7 @@ which is available free from Google.
 
 
 
-HTML has several semantic elements that define the different parts of a web page:
+**HTML** has several semantic elements that define the different parts of a web page:
 1. `<header>` `</header>`
 
 Defines a header for a document or a section

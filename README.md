@@ -10,6 +10,6 @@ Html  | [HTML](https://mohammadalwawi.github.io/reading-notes/html)
 Remote | [REMOTE](https://mohammadalwawi.github.io/reading-notes/reading-note02b)
 Mastering Markdown on GitHub| [Mastering Markdown on GitHub](https://mohammadalwawi.github.io/reading-notes/MasteringMarkdownonGitHub)
 Java-Script | [Java script](https://mohammadalwawi.github.io/reading-notes/Java-Script)
-Operators and Loops | [Operators and Loops](https://mohammadalwawi.github.io/reading-notes/Loops)
+Operators and Loops | [Operators and Loops](https://mohammadalwawi.github.io/reading-notes/read05)
 
 &copy; **Mohammad**
