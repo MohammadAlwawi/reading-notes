@@ -2,6 +2,8 @@
 I'm _Electrical Engineer_ ,I have good experience with electricity ,and teach some specialized subject.Althuough I don't know anything about programming,and the world is fact using technology for every thing,so I'm intrested in learing this course,
 this course is ~~really hard~~
 
+## Code 102 Reading Notes
+
 **name of file**  | **link**
 ------------  | -------
 git VS github  | [Git VS Github](https://mohammadalwawi.github.io/reading-notes/gitVSgithub)
