@@ -1,6 +1,8 @@
 # CSS 
 CSS allows you to create rules that specify how the content of an element should appear. For example, you can specify that the background of the page is cream, all paragraphs should appear in gray using the Arial typeface, or that all level one headings should be in a blue, italic, Times typeface. Once you have learned how to write a CSS rule, learning CSS mostly involves learning the different properties you can use. So this chapter will: 
-* introduce you to how CSS works ● Teach you how to write CSS rules ● Show you how CSS rules apply to HTML pages Understanding CSS: Thinking Inside the Box The key to understanding how CSS works is to imagine that there is an invisible box around every HTML element. Using CSS, you could add a border around any of the boxes,specify its width and height, or add a background color. You could also control text inside a box — 
+* introduce you to how CSS works
+ * Teach you how to write CSS rules 
+ * Show you how CSS rules apply to HTML pages Understanding CSS: Thinking Inside the Box The key to understanding how CSS works is to imagine that there is an invisible box around every HTML element. Using CSS, you could add a border around any of the boxes,specify its width and height, or add a background color. You could also control text inside a box — 
 ### for example,
  its color, size, and the typeface used. Here you can see a simple web page that is styled using CSS. This example uses two documents: the HTML file (example.html) and a separate CSS file (example.css). The fifth line of HTML uses the
 

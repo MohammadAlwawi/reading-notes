@@ -1,5 +1,5 @@
 ## Hello  I'm **Mohammad Alwawi**
-I'm _Electrical Engineer_ ,Ihave good experience with electricity ,and teach some specialized subject.Althuough Idon't know anything about programming,and the world is fact using technology for every thing,so I'm intrested in learing this course,
+I'm _Electrical Engineer_ ,I have good experience with electricity ,and teach some specialized subject.Althuough I don't know anything about programming,and the world is fact using technology for every thing,so I'm intrested in learing this course,
 this course is ~~really hard~~
 
 **name of file**  | **link**
