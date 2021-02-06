@@ -130,3 +130,28 @@ the information you present.
 
 **you can use this website for more infrmation**
 [CSS cheat sheet](https://overapi.com/css)
+
+
+## JAVASCRIPT
+Javascripte makes web pages more interactive
+
++  Access Content
+
+ for example:
+
+Select the text inside all of the `<hl>` elements on a page.
+Select any elements that have a class attribute with a value of note.
++  MODIFY CONTENT
+
+ for example:
+
+Add a paragraph of text after the first `<hl>` element.
+
+
+Change the value of class attributes to trigger new CSS rules for those elements.
+## What is a script:
+A script is a series of instructions that a computer can follow to achieve a goal.
+
+The HTML `<script>` element is used in HTML pages
+to tell the browser to load the JavaScript file (rather like
+the `<link>` element can be used to load a CSS file).
