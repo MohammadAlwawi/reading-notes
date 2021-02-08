@@ -25,7 +25,7 @@ Operators and Loops | [Operators and Loops](https://mohammadalwawi.github.io/rea
  
 > 1	|    
 
-> 2 |   
+> 2  HTML Text, CSS Introduction, and Basic JavaScript Instructions | [class-02](https://mohammadalwawi.github.io/reading-notes/class-02)  
 
 > 3 |
 
