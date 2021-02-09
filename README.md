@@ -27,7 +27,7 @@ Operators and Loops | [Operators and Loops](https://mohammadalwawi.github.io/rea
 
 > 2  HTML Text, CSS Introduction, and Basic JavaScript Instructions | [class-02](https://mohammadalwawi.github.io/reading-notes/class-02)  
 
-> 3 |
+> 3 HTML Lists, Control Flow with JS, and the CSS Box Model | [class-03](https://mohammadalwawi.github.io/reading-notes/class-03)
 
 > 4	|  
 
