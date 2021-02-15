@@ -29,13 +29,13 @@ Operators and Loops | [Operators and Loops](https://mohammadalwawi.github.io/rea
 
 > 3 HTML Lists, Control Flow with JS, and the CSS Box Model | [class-03](https://mohammadalwawi.github.io/reading-notes/class-03)
 
-> 4	|  
+> 4 HTML Links, CSS Layout, JS Functions	| [class-04](https://mohammadalwawi.github.io/reading-notes/class-04) 
 
-> 5	|   
+> 5	HTML Images; CSS Color & Text|   [class-05](https://mohammadalwawi.github.io/reading-notes/class-05)
 
-> 6 |   
+> 6 Problem Domain, Objects, and the DOM|   [class-06](https://mohammadalwawi.github.io/reading-notes/class-06)
 
-> 7 |   
+> 7 Object-Oriented Programming, HTML Tables|[class-07](https://mohammadalwawi.github.io/reading-notes/class-07)  
 
  > 8 |   
 
