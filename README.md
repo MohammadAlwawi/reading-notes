@@ -20,10 +20,10 @@ Operators and Loops | [Operators and Loops](https://mohammadalwawi.github.io/rea
 
 
 ## Code **201** Reading Notes
-~~**file name**~~ ***LINK***| _content_
- ----------| -------
+~~**file name**~~ ***LINK***  |  _content_
+  ----------| ---------------
  
-> 1	|    
+> 1	 |    
 
 > 2  HTML Text, CSS Introduction, and Basic JavaScript Instructions | [class-02](https://mohammadalwawi.github.io/reading-notes/class-02)  
 
@@ -31,21 +31,26 @@ Operators and Loops | [Operators and Loops](https://mohammadalwawi.github.io/rea
 
 > 4 HTML Links, CSS Layout, JS Functions	| [class-04](https://mohammadalwawi.github.io/reading-notes/class-04) 
 
-> 5	HTML Images; CSS Color & Text|   [class-05](https://mohammadalwawi.github.io/reading-notes/class-05)
+> 5	HTML Images; CSS Color & Text |   [class-05](https://mohammadalwawi.github.io/reading-notes/class-05)
 
-> 6 Problem Domain, Objects, and the DOM|   [class-06](https://mohammadalwawi.github.io/reading-notes/class-06)
+> 6 Problem Domain, Objects, and the DOM |   [class-06](https://mohammadalwawi.github.io/reading-notes/class-06)
 
-> 7 Object-Oriented Programming, HTML Tables|[class-07](https://mohammadalwawi.github.io/reading-notes/class-07)  
+> 7 Object-Oriented Programming, HTML Tables |[class-07](https://mohammadalwawi.github.io/reading-notes/class-07)  
 
- > 8 |   
+ > 8  More CSS Layout  |   [class-08](https://mohammadalwawi.github.io/reading-notes/class-08)  
 
-> 9 |  
 
-> 10	|   
+> 9  Forms and Events | [class-09](https://mohammadalwawi.github.io/reading-notes/class-09)  
+ 
 
-> 11 |  
+> 10 JS Debugging | [class-10](https://mohammadalwawi.github.io/reading-notes/class-10)  
+   
 
-> 12 |  
+> 11  Assorted Topics |  [class-11](https://mohammadalwawi.github.io/reading-notes/class-11)  
+
+
+> 12  Docs for the HTML `<canvas>` Element & Chart.js | [class-12](https://mohammadalwawi.github.io/reading-notes/class-12)  
+ 
 
 > 13 |   
 
